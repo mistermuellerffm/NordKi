@@ -1,10 +1,6 @@
 import numpy as np
 import math
 
-#netzwerk=[[],[],[]]
-
-#print(netzwerk)
-
 
 
 def knotenerzeugen(n):#erzeugt eine Liste von n Knoten
